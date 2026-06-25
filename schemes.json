@@ -1,0 +1,402 @@
+[
+  {
+    "id": "scheme_001",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "description": "Income support scheme for landholding farmer families across India. Provides direct cash transfer to help farmers meet agricultural and household needs. Aimed at small and marginal farmers who own cultivable land.",
+    "benefits": "Rs 6000 per year in three equal installments of Rs 2000, transferred directly to the bank account.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 100,
+      "max_income": 200000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Farmer"]
+    },
+    "link": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "scheme_002",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "description": "Crop insurance scheme protecting farmers against crop loss due to natural calamities, pests, and diseases. Covers food crops, oilseeds, and commercial crops. Provides financial stability to farmers facing crop failure.",
+    "benefits": "Insurance payout for crop loss; low premium rates of 2% for kharif, 1.5% for rabi crops.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 100,
+      "max_income": 500000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Farmer"]
+    },
+    "link": "https://pmfby.gov.in"
+  },
+  {
+    "id": "scheme_003",
+    "name": "Kisan Credit Card (KCC)",
+    "description": "Credit scheme providing farmers with timely and affordable access to credit for crop production and allied activities. Helps farmers avoid high-interest informal loans and meet short-term agricultural credit needs.",
+    "benefits": "Short-term credit at low interest rates (around 4% with subvention), flexible repayment aligned to harvest.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 75,
+      "max_income": 500000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Farmer"]
+    },
+    "link": "https://www.myscheme.gov.in"
+  },
+  {
+    "id": "scheme_004",
+    "name": "PM Kisan Maandhan Yojana",
+    "description": "Pension scheme for small and marginal farmers providing social security in old age. A voluntary and contributory pension plan for farmers to ensure income after the age of 60.",
+    "benefits": "Minimum assured pension of Rs 3000 per month after age 60.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 40,
+      "max_income": 300000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Farmer"]
+    },
+    "link": "https://maandhan.in"
+  },
+  {
+    "id": "scheme_005",
+    "name": "National Means-cum-Merit Scholarship (NMMSS)",
+    "description": "Scholarship to support meritorious students from economically weaker sections to continue education beyond class 8 and reduce dropout rates. For students studying in government schools who perform well academically.",
+    "benefits": "Rs 12000 per year scholarship for students from class 9 to class 12.",
+    "eligibility": {
+      "min_age": 12,
+      "max_age": 18,
+      "max_income": 350000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Student"]
+    },
+    "link": "https://scholarships.gov.in"
+  },
+  {
+    "id": "scheme_006",
+    "name": "Post Matric Scholarship for SC Students",
+    "description": "Financial assistance for Scheduled Caste students pursuing post-matriculation or post-secondary education. Aims to support higher education and reduce financial barriers for SC students.",
+    "benefits": "Covers tuition fees, maintenance allowance, and other education costs for SC students.",
+    "eligibility": {
+      "min_age": 15,
+      "max_age": 35,
+      "max_income": 250000,
+      "gender": "any",
+      "category": ["SC"],
+      "states": ["All India"],
+      "occupation": ["Student"]
+    },
+    "link": "https://scholarships.gov.in"
+  },
+  {
+    "id": "scheme_007",
+    "name": "Pragati Scholarship for Girls (AICTE)",
+    "description": "Scholarship encouraging girls to pursue technical education in diploma and degree programs. Supports female students in engineering and technical fields from economically backward families.",
+    "benefits": "Rs 50000 per year for tuition, books, and other expenses for girl students in technical courses.",
+    "eligibility": {
+      "min_age": 17,
+      "max_age": 25,
+      "max_income": 800000,
+      "gender": "female",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Student"]
+    },
+    "link": "https://www.aicte-pragati-saksham-gov.in"
+  },
+  {
+    "id": "scheme_008",
+    "name": "Central Sector Scheme of Scholarship",
+    "description": "Merit-based scholarship for students from low-income families pursuing college and university level education. Rewards academic excellence in higher secondary examinations.",
+    "benefits": "Rs 10000 to Rs 20000 per year for graduate and postgraduate studies.",
+    "eligibility": {
+      "min_age": 17,
+      "max_age": 30,
+      "max_income": 450000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Student"]
+    },
+    "link": "https://scholarships.gov.in"
+  },
+  {
+    "id": "scheme_009",
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "description": "Maternity benefit program providing financial support to pregnant and lactating women for their first child. Aims to improve health and nutrition of mother and child and compensate for wage loss.",
+    "benefits": "Cash incentive of Rs 5000 in installments for the first living child.",
+    "eligibility": {
+      "min_age": 19,
+      "max_age": 45,
+      "max_income": 800000,
+      "gender": "female",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["All"]
+    },
+    "link": "https://wcd.nic.in"
+  },
+  {
+    "id": "scheme_010",
+    "name": "Sukanya Samriddhi Yojana",
+    "description": "Small savings scheme for the girl child to support her education and marriage expenses. Encourages parents to build a fund for their daughter's future with attractive interest rates and tax benefits.",
+    "benefits": "High interest savings account with tax benefits; deposits allowed until the girl turns 15, matures at 21.",
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 10,
+      "max_income": 9999999,
+      "gender": "female",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["All"]
+    },
+    "link": "https://www.nsiindia.gov.in"
+  },
+  {
+    "id": "scheme_011",
+    "name": "Beti Bachao Beti Padhao",
+    "description": "National campaign to address declining child sex ratio and promote education and empowerment of the girl child. Focuses on preventing gender-biased sex selection and ensuring survival and education of girls.",
+    "benefits": "Awareness programs, support for girl child education, and improved access to schemes for girls.",
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 18,
+      "max_income": 9999999,
+      "gender": "female",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["All"]
+    },
+    "link": "https://wcd.nic.in"
+  },
+  {
+    "id": "scheme_012",
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "description": "Loan scheme providing collateral-free credit to micro and small enterprises and entrepreneurs. Supports non-corporate, non-farm small businesses to start or expand operations.",
+    "benefits": "Loans up to Rs 10 lakh in three categories - Shishu, Kishore, and Tarun - without collateral.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 65,
+      "max_income": 9999999,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Entrepreneur"]
+    },
+    "link": "https://www.mudra.org.in"
+  },
+  {
+    "id": "scheme_013",
+    "name": "Stand-Up India",
+    "description": "Scheme facilitating bank loans for SC, ST, and women entrepreneurs to set up greenfield enterprises. Promotes entrepreneurship among underrepresented sections in manufacturing, services, or trading.",
+    "benefits": "Bank loans between Rs 10 lakh and Rs 1 crore for setting up a new enterprise.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 65,
+      "max_income": 9999999,
+      "gender": "any",
+      "category": ["SC", "ST"],
+      "states": ["All India"],
+      "occupation": ["Entrepreneur"]
+    },
+    "link": "https://www.standupmitra.in"
+  },
+  {
+    "id": "scheme_014",
+    "name": "PM SVANidhi (Street Vendors Scheme)",
+    "description": "Micro-credit scheme providing affordable working capital loans to street vendors to resume livelihoods affected by the pandemic. Supports urban street vendors with formal credit access.",
+    "benefits": "Working capital loan starting at Rs 10000, with incentives on timely repayment and digital transactions.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 65,
+      "max_income": 200000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Street Vendor", "Entrepreneur"]
+    },
+    "link": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": "scheme_015",
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "description": "Skill development scheme providing free short-term training and certification to youth across industries. Aims to make young people employable and improve their job prospects through industry-relevant skills.",
+    "benefits": "Free skill training, certification, and placement assistance for youth.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 45,
+      "max_income": 500000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Unemployed", "Student"]
+    },
+    "link": "https://www.pmkvyofficial.org"
+  },
+  {
+    "id": "scheme_016",
+    "name": "Atal Pension Yojana (APY)",
+    "description": "Pension scheme aimed at workers in the unorganised sector to provide social security in old age. Encourages workers to save voluntarily for a guaranteed pension after retirement.",
+    "benefits": "Guaranteed monthly pension of Rs 1000 to Rs 5000 after age 60 based on contribution.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 40,
+      "max_income": 500000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Worker", "Unemployed", "All"]
+    },
+    "link": "https://www.npscra.nsdl.co.in"
+  },
+  {
+    "id": "scheme_017",
+    "name": "Ayushman Bharat PM-JAY",
+    "description": "Health insurance scheme providing free secondary and tertiary healthcare to poor and vulnerable families. Covers hospitalization expenses for the bottom economic sections of the population.",
+    "benefits": "Health cover of Rs 5 lakh per family per year for hospitalization at empanelled hospitals.",
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 100,
+      "max_income": 200000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["All"]
+    },
+    "link": "https://pmjay.gov.in"
+  },
+  {
+    "id": "scheme_018",
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "description": "Housing scheme aiming to provide affordable pucca houses to eligible urban and rural families. Supports homeless and inadequately housed families with financial assistance to build or buy a house.",
+    "benefits": "Financial assistance and interest subsidy for constructing or purchasing a home.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 70,
+      "max_income": 600000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["All"]
+    },
+    "link": "https://pmaymis.gov.in"
+  },
+  {
+    "id": "scheme_019",
+    "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+    "description": "Pension scheme providing financial support to elderly citizens living below the poverty line. Ensures basic income security for senior citizens with no regular means of subsistence.",
+    "benefits": "Monthly pension ranging from Rs 200 to Rs 500 depending on age and state contribution.",
+    "eligibility": {
+      "min_age": 60,
+      "max_age": 100,
+      "max_income": 100000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["All"]
+    },
+    "link": "https://nsap.nic.in"
+  },
+  {
+    "id": "scheme_020",
+    "name": "PM Vishwakarma Yojana",
+    "description": "Scheme supporting traditional artisans and craftspeople with skill upgrades, tools, and credit. Recognises and empowers workers engaged in traditional trades like carpentry, pottery, blacksmithing, and weaving.",
+    "benefits": "Toolkit incentive, skill training with stipend, and collateral-free loans at low interest.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 65,
+      "max_income": 300000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Artisan", "Worker"]
+    },
+    "link": "https://pmvishwakarma.gov.in"
+  },
+  {
+    "id": "scheme_021",
+    "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "description": "Scheme providing free LPG connections to women from below poverty line households. Aims to safeguard the health of women and children by providing clean cooking fuel and reducing reliance on traditional cooking methods.",
+    "benefits": "Free LPG connection with financial support for the first refill and stove.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 100,
+      "max_income": 150000,
+      "gender": "female",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["All"]
+    },
+    "link": "https://www.pmuy.gov.in"
+  },
+  {
+    "id": "scheme_022",
+    "name": "Startup India Seed Fund Scheme",
+    "description": "Scheme providing financial assistance to early-stage startups for proof of concept, prototype development, and market entry. Supports innovative startups recognised by DPIIT in their initial growth phase.",
+    "benefits": "Seed funding up to Rs 50 lakh for eligible startups through incubators.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 60,
+      "max_income": 9999999,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Entrepreneur"]
+    },
+    "link": "https://seedfund.startupindia.gov.in"
+  },
+  {
+    "id": "scheme_023",
+    "name": "National Family Benefit Scheme (NFBS)",
+    "description": "Scheme providing one-time financial assistance to a below poverty line family on the death of the primary breadwinner. Offers immediate relief to families that lose their main source of income.",
+    "benefits": "One-time lump sum assistance of Rs 20000 to the bereaved family.",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 100,
+      "max_income": 100000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["All"]
+    },
+    "link": "https://nsap.nic.in"
+  },
+  {
+    "id": "scheme_024",
+    "name": "Mahila Samman Savings Certificate",
+    "description": "Small savings scheme exclusively for women and girls offering a secure investment with attractive interest. Encourages financial independence and savings habits among women.",
+    "benefits": "Fixed deposit up to Rs 2 lakh for two years at a competitive interest rate with partial withdrawal.",
+    "eligibility": {
+      "min_age": 0,
+      "max_age": 100,
+      "max_income": 9999999,
+      "gender": "female",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["All"]
+    },
+    "link": "https://www.indiapost.gov.in"
+  },
+  {
+    "id": "scheme_025",
+    "name": "National Scholarship for Persons with Disabilities",
+    "description": "Scholarship supporting students with disabilities to pursue higher education without financial hardship. Aims to promote inclusive education and equal opportunity for differently-abled students.",
+    "benefits": "Financial assistance covering tuition, maintenance, and disability-related expenses.",
+    "eligibility": {
+      "min_age": 15,
+      "max_age": 35,
+      "max_income": 250000,
+      "gender": "any",
+      "category": ["All"],
+      "states": ["All India"],
+      "occupation": ["Student"]
+    },
+    "link": "https://scholarships.gov.in"
+  }
+]
